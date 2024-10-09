@@ -28,3 +28,5 @@ I'm a technical recruiter passionate about connecting talented individuals with 
 * **[UI Visual Design Intern](https://layer5.io/careers/ui-visual-designer-internship)**
 
 **I'm always eager to connect with talented engineers and learn about new opportunities. Feel free to reach out!**
+
+P.S. Have you seen https://badges.layer5.io?
