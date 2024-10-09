@@ -5,8 +5,10 @@ I'm a technical recruiter passionate about connecting talented individuals with 
 **My areas of focus:**
 
 * **Software Engineering:**  (e.g., Front-end, Back-end, Full-stack, Mobile)
+  * React.js, Golang, Rust, Rego, Cuelang
 * **Data Science & Machine Learning**
 * **DevOps & Cloud Engineering**
+  * Meshery, Open Policy Agent
 * **Cybersecurity**
 
 **What I value:**
