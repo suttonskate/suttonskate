@@ -2,7 +2,7 @@
 
 I'm a technical recruiter passionate about connecting talented individuals with exciting opportunities in the tech industry. I thrive on helping people find their dream roles and companies build high-performing teams.
 
-**My areas of focus:**
+**My areas of talent aquisition focus:**
 
 * **Software Engineering:**  (e.g., Front-end, Back-end, Full-stack, Mobile)
   * React.js, Golang, Rust, Rego, Cuelang
