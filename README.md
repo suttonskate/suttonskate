@@ -9,7 +9,7 @@ I'm a technical recruiter passionate about connecting talented individuals with 
 * **Data Science & Machine Learning**
 * **DevOps & Cloud Engineering**
   * Meshery, Open Policy Agent
-* **Cybersecurity**
+* **a little Cybersecurity**
 
 **What I value:**
 
