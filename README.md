@@ -4,7 +4,7 @@
  <tr><td align="center">
 <img width="150px" src="https://badges.layer5.io/assets/badges/first-collaborator/first-collaborator.png" />
 
-<p>Like my badge?<br /><a href="https://badges.layer5.io">Get yours here</a></p>
+<p><a href="https://cloud.layer5.io/user/7f7c9603-65d4-4097-b461-73f7d7bd82a0?tab=badges">See all my badges</a><br /><a href="https://badges.layer5.io">Get yours here</a></p>
   </td></tr>
 </table>
 
