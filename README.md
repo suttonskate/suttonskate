@@ -1,5 +1,13 @@
 # Hello, I'm Kate Suttons! 👋
 
+<table align="right" border="0">
+ <tr><td align="center">
+<img width="150px" src="https://badges.layer5.io/assets/badges/first-collaborator/first-collaborator.png" />
+
+<p>Like my badge?<br /><a href="https://badges.layer5.io">Get yours here</a></p>
+  </td></tr>
+</table>
+
 I'm a technical recruiter passionate about connecting talented individuals with exciting opportunities in the tech industry. I thrive on helping people find their dream roles and companies build high-performing teams.
 
 **My areas of talent aquisition focus:**
